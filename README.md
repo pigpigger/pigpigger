@@ -1,11 +1,6 @@
 ## This is pigpigger's homepage
-<a href="https://codeforces.com/profile/Elegia">
-  <img src="https://cf-leaderboard.vercel.app/api/badge?handle=Elegia" alt="Codeforces Elegia Badge">
-</a>
+[![CF Badge](https://cf-rating-badge.vercel.app/api?handle=Elegia)](https://codeforces.com/profile/Elegia)
 
-<a href="https://atcoder.jp/users/entropyincreaser">
-  <img src="https://atcoder-badge.vercel.app/api/user?handle=entropyincreaser" alt="AtCoder Badge">
-</a>
 
 <!--
 **pigpigger/pigpigger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
