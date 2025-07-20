@@ -1,4 +1,5 @@
 ## This is pigpigger's homepage
+[![Codeforces](https://img.shields.io/badge/Codeforces-pigpigger-blue?logo=codeforces)](https://codeforces.com/profile/pigpigger)
 
 
 <!--
