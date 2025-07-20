@@ -1,5 +1,4 @@
 ## This is pigpigger's homepage
-[![CF Badge](https://cf-rating-badge.vercel.app/api?handle=Elegia)](https://codeforces.com/profile/Elegia)
 
 
 <!--
